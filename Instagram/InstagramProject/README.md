@@ -148,11 +148,11 @@ The project is a basic web application built using Java and the Spring framework
 
 ## Author
 
-👤 **Ajinkya Padule**
+👤 **Pramod Kumar**
 
-* GitHub: [AjinkyaPersonal](https://github.com/AjinkyaPersonal)
+* GitHub: [AjinkyaPersonal](https://github.com/pramod-kum)
 
-* LinkedIn: [Ajinkya Padule](https://www.linkedin.com/in/ajinkya-padule-04b8541a6/)
+* LinkedIn: [Pramod Kumar](https://www.linkedin.com/in/pramod-kr91/)
     
 ---
 
@@ -170,7 +170,7 @@ Give a ⭐️ if this project helped you!
     
 ## 📝 License
 
-Copyright © 2023 [Ajinkya Padule](https://github.com/AjinkyaPersonal).<br />
+Copyright © 2023 [Pramod Kumar](https://github.com/pramod-kum).<br />
 
 This project is [MIT]("url") licensed.
     
