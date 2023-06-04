@@ -150,7 +150,7 @@ The project is a basic web application built using Java and the Spring framework
 
 👤 **Pramod Kumar**
 
-* GitHub: [AjinkyaPersonal](https://github.com/pramod-kum)
+* GitHub: [Pramod Kumar](https://github.com/pramod-kum)
 
 * LinkedIn: [Pramod Kumar](https://www.linkedin.com/in/pramod-kr91/)
     
